@@ -30,3 +30,13 @@ This project is an innovative AI-powered learning platform that uses a "crew" of
 ## Installation
 
 1. Clone the repository:
+2. Install required packages:
+3. Set up environment variables:
+Create a `.env` file in the root directory and add your API keys:
+4. Set up Firebase:
+- Create a Firebase project and download the service account key JSON file.
+- Update the Firebase configuration in the code with your project details.
+
+## Usage
+
+Run the Streamlit app
