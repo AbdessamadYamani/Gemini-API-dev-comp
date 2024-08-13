@@ -1,0 +1,9 @@
+streamlit
+firebase-admin
+plotly
+google-generativeai
+langchain
+langchain-openai
+langchain-google-genai
+crewai
+python-dotenv
