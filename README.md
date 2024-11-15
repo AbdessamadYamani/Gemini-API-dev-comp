@@ -1,6 +1,4 @@
 # AI-Powered Personalized Learning Platform
-# Video Link 
-https://drive.google.com/file/d/194p5h5iT9ygDIyXEuZ01YaftxLGQVfOd/view?usp=sharing
 ## Overview
 
 This project is an innovative AI-powered learning platform that uses a "crew" of AI agents to provide a highly personalized and adaptive learning experience. By leveraging cutting-edge AI technologies and a user-friendly interface, we aim to revolutionize online education and make quality learning accessible to all.
